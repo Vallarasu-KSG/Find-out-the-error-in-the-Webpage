@@ -1,0 +1,109 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h2
+{
+    padding-top: 3%;
+    padding-left: 31%;
+}
+h2 a
+{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    gap: 2px;
+    color: green;
+}
+h2 a:hover
+{
+    color: red;
+}
+table td
+{
+    font-size: 21px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+table
+{
+    position: absolute;
+    top: 20%;
+    left: 23%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 650px;
+    margin-left: 40px;
+}
+.n1
+{
+    cursor: pointer;
+    border: 3px solid white;
+    background-color: rgb(32, 135, 133);
+    padding: 15px;
+    color: white;
+}
+.n2
+{
+    cursor: pointer;
+    border: 3px solid white;
+    background-color:brown;
+    padding: 15px;
+    color: white;
+}
+.n3
+{
+    cursor: pointer;
+    border: 3px solid white;
+    background-color:skyblue;
+    padding: 15px;
+    color: white;
+}
+.n4
+{
+    cursor: pointer;
+    border: 3px solid white;
+    background-color: blue;
+    padding: 15px;
+    color: white;
+}
+.n5
+{
+    cursor: pointer;
+    border: 3px solid white;
+    background-color:rgb(4, 85, 4);
+    padding: 15px;
+    color: white;
+}
+.n6
+{
+    cursor: pointer;
+    border: 3px solid white;
+    background-color:rgb(66, 27, 9);
+    padding: 15px;
+    color: white;
+}
+.n7
+{
+    cursor: pointer;
+    border: 3px solid white;
+    background-color:orange;
+    padding: 15px;
+    color: white;
+}
+.n8
+{
+    cursor: pointer;
+    border: 3px solid white;
+    background-color:blue;
+    padding: 15px;
+    color: white;
+}
+.n9
+{
+    cursor: pointer;
+    border: 3px solid white;
+    background-color:violet;
+    padding: 15px;
+    color: white;
+}
